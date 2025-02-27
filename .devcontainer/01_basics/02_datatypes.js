@@ -2,7 +2,7 @@
 
 //alert(3+3);//we are using node.js not  browser
 
-console.log(3+3);
+console.log(7000+2000-2750-1000-2300);
 
 let name="zahid"
 let age=25;
@@ -24,4 +24,5 @@ console.table([name, age, isApproved, state])
 
 //Objects
 
-console.log(typeof name)
+console.log("this is ", typeof name)
+
